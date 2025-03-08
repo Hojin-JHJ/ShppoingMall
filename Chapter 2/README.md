@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a2c2eed5-c599-4b20-ad42-44d0da58d3b5)![image](https://github.com/user-attachments/assets/70277aca-1657-49b1-8bf0-a45861cfbdb3)## Chapter 2 : Spring Data JPA
+## Chapter 2 : Spring Data JPA
 * JPA(Java Persistence API) : 자바 ORM 기술에 대한 API 표준
   * ORM(Object Relational Mapping) : 객체와 관계형 DB를 매핑해주는 것<br/>
          -> 객체를 DB에 넣고 꺼내기 위해 반복적으로 SQL을 매핑할 필요 X<br/><br/>
